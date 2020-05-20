@@ -4,3 +4,5 @@ numpy
 tensorflow
 keras
 scikit-learn
+jupyter
+jupyterthemes
