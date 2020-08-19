@@ -6,3 +6,4 @@ keras
 scikit-learn
 jupyter
 jupyterthemes
+pillow
