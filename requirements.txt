@@ -9,3 +9,4 @@ jupyterthemes
 pillow
 tensorflow_hub
 tensorflow_datasets
+tensorflow_addons
